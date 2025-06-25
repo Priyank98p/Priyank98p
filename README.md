@@ -1,4 +1,4 @@
-# Hi, I'm Priyank Singh
+# Hi, I'm Priyank
 I'm a passionate developer focused on **Web** and **Android Development** using **Kotlin**, **Java**, **HTML**, **CSS**, and **JavaScript**, along with modern tools and frameworks. I enjoy building scalable, real-world applications and am currently exploring how **AI** can be integrated into mobile and web platforms to deliver smarter and more personalized user experiences.
 
 ## 📚 Currently Learning
