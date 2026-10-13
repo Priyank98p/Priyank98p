@@ -127,3 +127,9 @@ A final-year project focused on peer-to-peer campus rentals, helping students sh
 <p align="center">
   <i>Learning consistently, building projects, and improving one step at a time.</i>
 </p>
+
+## 👾 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Priyank98p/Priyank98p/output/pacman-contribution-graph.svg" alt="Pac-Man GitHub contribution graph" width="100%" />
+</p>
